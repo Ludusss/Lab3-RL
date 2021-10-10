@@ -8,8 +8,8 @@ init_pos_diver: [1, 8]
 frames_per_second: 10000
 
 ## Player type or nature. Possible values: "ai_rl" or "random". Default: "ai_rl"
-player_type: "random"
-# player_type: "ai_rl"
+#player_type: "random"
+player_type: "ai_rl"
 
 ## Q learning learning rate
 alpha: 0.1
